@@ -7,7 +7,8 @@ package multiplicacionmatrices;
 
 /**
  *
- * @author USER
+ * @author Jorge Andres Duran, Albert Jose Charry
+ * @version Multiplicacion_matrices 1.0
  */
 public class MultiplicacionMatrices {
     
